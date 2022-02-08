@@ -1,0 +1,16 @@
+C:\Users\pbrab\OneDrive\Ambiente de Trabalho\Testes do NET\Etapa Desafio\bin\Debug\net5.0\Etapa Desafio.exe
+C:\Users\pbrab\OneDrive\Ambiente de Trabalho\Testes do NET\Etapa Desafio\bin\Debug\net5.0\Etapa Desafio.deps.json
+C:\Users\pbrab\OneDrive\Ambiente de Trabalho\Testes do NET\Etapa Desafio\bin\Debug\net5.0\Etapa Desafio.runtimeconfig.json
+C:\Users\pbrab\OneDrive\Ambiente de Trabalho\Testes do NET\Etapa Desafio\bin\Debug\net5.0\Etapa Desafio.runtimeconfig.dev.json
+C:\Users\pbrab\OneDrive\Ambiente de Trabalho\Testes do NET\Etapa Desafio\bin\Debug\net5.0\Etapa Desafio.dll
+C:\Users\pbrab\OneDrive\Ambiente de Trabalho\Testes do NET\Etapa Desafio\bin\Debug\net5.0\ref\Etapa Desafio.dll
+C:\Users\pbrab\OneDrive\Ambiente de Trabalho\Testes do NET\Etapa Desafio\bin\Debug\net5.0\Etapa Desafio.pdb
+C:\Users\pbrab\OneDrive\Ambiente de Trabalho\Testes do NET\Etapa Desafio\obj\Debug\net5.0\Etapa Desafio.csproj.AssemblyReference.cache
+C:\Users\pbrab\OneDrive\Ambiente de Trabalho\Testes do NET\Etapa Desafio\obj\Debug\net5.0\Etapa Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pbrab\OneDrive\Ambiente de Trabalho\Testes do NET\Etapa Desafio\obj\Debug\net5.0\Etapa Desafio.AssemblyInfoInputs.cache
+C:\Users\pbrab\OneDrive\Ambiente de Trabalho\Testes do NET\Etapa Desafio\obj\Debug\net5.0\Etapa Desafio.AssemblyInfo.cs
+C:\Users\pbrab\OneDrive\Ambiente de Trabalho\Testes do NET\Etapa Desafio\obj\Debug\net5.0\Etapa Desafio.csproj.CoreCompileInputs.cache
+C:\Users\pbrab\OneDrive\Ambiente de Trabalho\Testes do NET\Etapa Desafio\obj\Debug\net5.0\Etapa Desafio.dll
+C:\Users\pbrab\OneDrive\Ambiente de Trabalho\Testes do NET\Etapa Desafio\obj\Debug\net5.0\ref\Etapa Desafio.dll
+C:\Users\pbrab\OneDrive\Ambiente de Trabalho\Testes do NET\Etapa Desafio\obj\Debug\net5.0\Etapa Desafio.pdb
+C:\Users\pbrab\OneDrive\Ambiente de Trabalho\Testes do NET\Etapa Desafio\obj\Debug\net5.0\Etapa Desafio.genruntimeconfig.cache
