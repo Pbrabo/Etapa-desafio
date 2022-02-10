@@ -20,8 +20,17 @@ namespace Etapa_Desafio.src.Entities
         public bool IsUsado;
 
         //public override double CalculaImposto()
-        {
+        
             
+           
+
+            public override string ToString(){
+           return this.Nome + " " + this.Preco + " " + this.Qtd + " " + this.Marca + " " + this.Modelo + " " + this.IsUsado;
+           }
+
+        public double CalculaImposto()
+        {
+           
             if (this.IsUsado)
             {
                 return this.Preco = this.Preco + (0.25 * this.Preco);
@@ -30,11 +39,6 @@ namespace Etapa_Desafio.src.Entities
             {
                 return this.Preco = this.Preco + (0.45 * this.Preco);
             }
-            
-            }
-
-            public override string ToString(){
-           return this.Nome + " " + this.Preco + " " + this.Qtd + " " + this.Marca + " " + this.Modelo + " " + this.IsUsado;
-           }
+        }
     }
 }
